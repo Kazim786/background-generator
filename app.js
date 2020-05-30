@@ -20,3 +20,5 @@ color2.addEventListener('input', setGradient
     // console.log(color2.value)
 )
 
+//1. Write code so that the colour inputs match 
+//the background generated on the first page load.  >> color1 = body.style.background
