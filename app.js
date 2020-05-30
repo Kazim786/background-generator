@@ -3,6 +3,8 @@ var color1 = document.querySelector('.color1');
 var color2 = document.querySelector('.color2')
 var body = document.getElementById('gradient')
 
+color1.value = body.style.background
+color2.value = body.style.background
 
 function setGradient(){
     body.style.background = "linear-gradient(to right, " 
