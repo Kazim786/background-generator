@@ -23,3 +23,7 @@ color2.addEventListener('input', setGradient
 
 //1. Write code so that the colour inputs match 
 //the background generated on the first page load.  >> color1 = body.style.background
+
+// my favorite color combo: 
+ 
+// linear-gradient(to right, rgb(104, 133, 146), rgb(24, 236, 127))
